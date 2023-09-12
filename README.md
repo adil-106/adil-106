@@ -6,7 +6,7 @@ Software Development Engineer | Full-Stack Developer
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [adil.mithani619@gmail.com](mailto:adil.mithani619@gmail.com)
-* 🚀  I'm currently working on [my e-commerce application](http://e-commerce-clothing-web-9yq1vktt5-adil-106.vercel.app)
+* 🚀  I'm currently working on [a react-redux-based application.](http://e-commerce-clothing-web-9yq1vktt5-adil-106.vercel.app)
 * 🧠  I'm learning Asynchronous Redux - Thunk and Saga.
 * 🤝  I'm open to collaborating on developing full-stack cloud-native applications.
 
