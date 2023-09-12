@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Development Engineer | Full-Stack Developer
 ----------------------------------------------------
 
+Greetings! I'm Adil Iqbal, a software engineer from the vibrant city of Toronto, Canada. With over 2 years of full-time software development experience at Infosys, collaborating across borders with diverse clients and teams, I've honed my craft in crafting exceptional digital solutions. I'm passionate about creating full-stack applications that seamlessly blend functionality and user experience. My technical toolbox includes React, Redux, Node.js, Express, SQL, NoSQL databases, and AWS. I thrive in the cloud-native ecosystem, with proficiency in AWS services like EC2, S3, CloudFront, Lambda, DynamoDB, RDS, SQS, SNS, and IAM. To add a cherry on top, I hold the prestigious Microsoft Certified: Azure Cloud Fundamentals (AZ-900) certification.
+
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [adil.mithani619@gmail.com](mailto:adil.mithani619@gmail.com)
 * 🚀  I'm currently working on [a react-redux-based application.](http://e-commerce-clothing-web-9yq1vktt5-adil-106.vercel.app)
