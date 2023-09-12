@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Development Engineer | Full-Stack Developer
 ----------------------------------------------------
 
-Greetings! I'm Adil Iqbal, a software engineer from the vibrant city of Toronto, Canada. With over 2 years of full-time software development experience at Infosys, collaborating across borders with diverse clients and teams, I've honed my craft in crafting exceptional digital solutions. I'm passionate about creating full-stack applications that seamlessly blend functionality and user experience. My technical toolbox includes React, Redux, Node.js, Express, SQL, NoSQL databases, and AWS. I thrive in the cloud-native ecosystem, with proficiency in AWS services like EC2, S3, CloudFront, Lambda, DynamoDB, RDS, SQS, SNS, and IAM. To add a cherry on top, I hold the prestigious Microsoft Certified: Azure Cloud Fundamentals (AZ-900) certification.
+I'm Adil Iqbal, a passionate software developer based in Toronto, Canada. With over 2 years of professional experience, I've collaborated with cross-border clients and teams at Infosys and freelanced in Canada. Currently, I'm immersed in building a React-Redux application and diving deep into Asynchronous Redux with Thunk and Saga.
+
+My technical repertoire includes a wide array of languages and tools, from JavaScript and Node.js to AWS services like EC2 and DynamoDB. I'm also certified in Microsoft Azure Cloud Fundamentals (AZ-900). My project portfolio includes a diverse range of accomplishments, from crafting sleek payment processing apps to optimizing autonomous vehicle path planning algorithms.
+
+I'm always open to new opportunities and collaborations, especially when it comes to developing full-stack cloud-native applications. If you'd like to connect or explore potential projects together, you can reach me at adil.mithani619@gmail.com. Let's build something amazing! 🚀👨‍💻
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [adil.mithani619@gmail.com](mailto:adil.mithani619@gmail.com)
