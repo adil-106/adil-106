@@ -10,7 +10,7 @@ My technical repertoire includes a wide array of languages and tools, from JavaS
 
 I'm always open to new opportunities and collaborations, especially when it comes to developing full-stack cloud-native applications. If you'd like to connect or explore potential projects together, you can reach me at adil.mithani619@gmail.com. Let's build something amazing! 🚀👨‍💻
 
-* 🌍  I'm based in Toronto, Canada
+* 🌍  I'm based in Canada
 * ✉️  You can contact me at [adil.mithani619@gmail.com](mailto:adil.mithani619@gmail.com)
 * 🚀  I'm currently working on [a react-redux-based application.](http://e-commerce-clothing-web-9yq1vktt5-adil-106.vercel.app)
 * 🧠  I'm learning Asynchronous Redux - Thunk and Saga.
