@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Development Engineer | Full-Stack Developer
 ----------------------------------------------------
 
-I'm Adil Iqbal, a passionate software developer based in Toronto, Canada. With over 2 years of professional experience, I've collaborated with cross-border clients and teams at Infosys and freelanced in Canada. Currently, I'm immersed in building a React-Redux application and diving deep into Asynchronous Redux with Thunk and Saga.
+I'm Adil Iqbal, a passionate software developer based in Canada. With over 2 years of professional experience, I've collaborated with cross-border clients and teams at Infosys and freelanced in Canada. Currently, I'm immersed in building a React-Redux application and diving deep into Asynchronous Redux with Thunk and Saga.
 
 My technical repertoire includes a wide array of languages and tools, from JavaScript and Node.js to AWS services like EC2 and DynamoDB. I'm also certified in Microsoft Azure Cloud Fundamentals (AZ-900). My project portfolio includes a diverse range of accomplishments, from crafting sleek payment processing apps to optimizing autonomous vehicle path planning algorithms.
 
